@@ -49,7 +49,7 @@ Execute the programs and publish them.
 </html>
 <html>
     <head>
-        <title>MALL</title>
+        <title>CHENNAI</title>
     </head>
     <body bgcolor="cyan">
         <h1 align="center">
@@ -69,7 +69,7 @@ Execute the programs and publish them.
 </html>
 <html>
     <head>
-        <title>hotel</title>
+        <title>CHENNAI</title>
     </head>
     <body bgcolor="PINK">
         <h1 align="center">
@@ -92,7 +92,7 @@ Its on-site bar has a private seating area. </font>
 </html>
 <html>
     <head>
-        <title>temple</title>
+        <title>CHENNAI</title>
     </head>
     <body bgcolor="ORANGE">
         <h1 align="center">
@@ -112,7 +112,7 @@ Its on-site bar has a private seating area. </font>
 </html>
 <html>
     <head>
-        <title>hospital</title>
+        <title>CHENNAIl</title>
     </head>
     <body bgcolor="PINK">
         <h1 align="center">
@@ -132,7 +132,7 @@ Its on-site bar has a private seating area. </font>
 </html>
 <html>
     <head>
-        <title>hall</title>
+        <title>CHENNAI</title>
     </head>
     <body bgcolor="grey">
         <h1 align="center">
