@@ -25,6 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+map.html
+<!DOCTYPE html>
 <html>
     <head>
         <title>CHENNAI</title>
@@ -48,6 +50,7 @@ Execute the programs and publish them.
     </body>
 </html>
 
+mall.html
 
 <html>
     <head>
@@ -70,7 +73,7 @@ Execute the programs and publish them.
     </body>
 </html>
 
-
+hotel.html
 <html>
     <head>
         <title>hotel</title>
@@ -95,7 +98,7 @@ Its on-site bar has a private seating area. </font>
     </body>
 </html>
 
-
+temple.html
 <html>
     <head>
         <title>temple</title>
@@ -117,6 +120,7 @@ Its on-site bar has a private seating area. </font>
     </body>
 </html>
 
+hospital.html
 <html>
     <head>
         <title>hospital</title>
@@ -138,7 +142,7 @@ Its on-site bar has a private seating area. </font>
     </body>
 </html>
 
-
+hall.html
 <html>
     <head>
         <title>hall</title>
