@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>CHENNAI</title>
