@@ -25,7 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-<!DOCTYPE html>
 <html>
     <head>
         <title>CHENNAI</title>
@@ -162,7 +161,6 @@ Its on-site bar has a private seating area. </font>
 
     </body>
 </html>
-
 ## OUTPUT
 
 ![image](https://github.com/23000966/NearMe/assets/153983364/0a573f4c-bd91-4746-82ca-0c610f89fb1f)
