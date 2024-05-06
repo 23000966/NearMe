@@ -39,11 +39,11 @@ Execute the programs and publish them.
         <center><img src="C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-04-30 185051CHTFHT.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="MGB mall" title="MGB mall" href="mall.html" coords="632,613,444,583" shape="rect">
-    <area target="" alt="Hotel minerva grand" title="Hotel minerva grand" href="hotel.html" coords="653,486,829,529" shape="rect">
-    <area target="" alt="ISKCON temple" title="ISKCON temple" href="temple.html" coords="616,692,771,738" shape="rect">
+    <area target="" alt="VR mall" title="VR mall" href="mall.html" coords="632,613,444,583" shape="rect">
+    <area target="" alt="Central residency hotel" title="Central residency hotel" href="hotel.html" coords="653,486,829,529" shape="rect">
+    <area target="" alt="kapaleeshwar temple" title="Kapaleeshwar temple" href="temple.html" coords="616,692,771,738" shape="rect">
     <area target="" alt="Apollo hospitals" title="Apollo hospitals" href="hospital.html" coords="841,502,1067,555" shape="rect">
-    <area target="" alt="AVM function hall" title="AVM function hall" href="hall.html" coords="1158,129,1327,171" shape="rect">
+    <area target="" alt="PSB mini function hall" title="PSB mini function hall" href="hall.html" coords="1158,129,1327,171" shape="rect">
 </map>
        </center>
     </body>
